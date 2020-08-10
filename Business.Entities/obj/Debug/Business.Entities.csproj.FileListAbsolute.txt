@@ -1,0 +1,6 @@
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\bin\Debug\Business.Entities.dll
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\bin\Debug\Business.Entities.pdb
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\obj\Debug\Business.Entities.csprojAssemblyReference.cache
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\obj\Debug\Business.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\obj\Debug\Business.Entities.dll
+C:\Users\Santi\Desktop\TP2\trabajo-practico-2\Business.Entities\obj\Debug\Business.Entities.pdb
