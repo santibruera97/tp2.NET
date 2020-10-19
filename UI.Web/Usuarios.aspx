@@ -42,12 +42,12 @@
     </asp:Panel> 
     <asp:Panel runat="server" ID="girdActionsPanel">
         <asp:LinkButton ID="editarLinkButton" runat="server" OnClick="editarLinkButton_Click1">Editar</asp:LinkButton>
-        <asp:LinkButton ID="eliminarLinkButton" runat="server">Eliminar</asp:LinkButton>
-        <asp:LinkButton ID="nuevoLinkButton" runat="server">Nuevo</asp:LinkButton>
+        <asp:LinkButton ID="eliminarLinkButton" runat="server" OnClick="eliminarLinkButton_Click">Eliminar</asp:LinkButton>
+        <asp:LinkButton ID="nuevoLinkButton" runat="server" OnClick="nuevoLinkButton_Click">Nuevo</asp:LinkButton>
     </asp:Panel> 
 
     <asp:Panel runat="server" ID="fromActionsPanel">
-        <asp:LinkButton ID="aceptarLinkButton" runat="server">Aceptar</asp:LinkButton>
-        <asp:LinkButton ID="cancelarLinkButton" runat="server">Cancelar</asp:LinkButton>
+        <asp:LinkButton ID="aceptarLinkButton" runat="server" OnClick="aceptarLinkButton_Click">Aceptar</asp:LinkButton>
+        <asp:LinkButton ID="cancelarLinkButton" runat="server" OnClick="cancelarLinkButton_Click">Cancelar</asp:LinkButton>
     </asp:Panel>
 </asp:Content>
